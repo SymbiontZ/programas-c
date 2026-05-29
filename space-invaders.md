@@ -13,7 +13,7 @@ El programa cumplirá los siguientes requisitos:
 
 > "." → espacio vacío
 
-- Los enemigos aparecerán aleatoriamente en la parte superior utilizando rand().
+- Los enemigos aparecerán aleatoriamente en la parte superior utilizando rand() con una probabilidad del 25% en cada columna.
 
 En cada turno:
 - Se mostrará el tablero actualizado.
