@@ -22,7 +22,7 @@ En cada turno:
 > "a" → izquierda
 > "d" → derecha
 - Los obstáculos avanzarán automáticamente hacia abajo.
-- El programa generará nuevos obstáculos aleatorios en la parte superior utilizando rand().
+- El programa generará nuevos obstáculos aleatorios en la parte superior utilizando rand() con una probabilidad de 1/3 por columna.
 - Si el coche colisiona con un obstáculo, la partida terminará.
 
 El programa deberá incluir funciones para:
